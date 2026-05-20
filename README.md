@@ -1,3 +1,3 @@
 # Bem vindo ao curso de git e gitHub
 
-TESTE
+DESCRIÇÃO DO MEU README
